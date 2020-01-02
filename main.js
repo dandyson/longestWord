@@ -15,5 +15,4 @@ function LongestWord(sen) {
   return longest; 
 }
    
-// keep this function call here 
 console.log(LongestWord("To be or not to be, that is the question"));
